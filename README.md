@@ -1,7 +1,3 @@
-Here’s an extended description for **Template Matching** with added images section:
-
----
-
 ### 🖼️ Template Matching
 
 ## 🚀 About
